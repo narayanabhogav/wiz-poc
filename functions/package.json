@@ -1,0 +1,13 @@
+{
+    "name": "functions",
+    "dependencies": {
+      "cors": "^2.8.5",
+      "firebase-functions": "^4.0.0",
+      "firebase-admin": "^11.0.0",
+      "my-language-translator": "^1.0.0"
+    },
+    "engines": {
+      "node": "18"
+    }
+  }
+  
